@@ -1,2 +1,3 @@
-# TDS-23
-Игра Top-Down Shooter, разнос врагов под Phonk.
+# TDS23
+
+Developed with Unreal Engine 4
